@@ -7,5 +7,4 @@ ABOUT ME
 
 FrontEnd Mentor Challenges
 
-#1. QR Code Challenge
-[QR Code](./QR_Code/)
+#1.[QR Code](./QR_Code/)
