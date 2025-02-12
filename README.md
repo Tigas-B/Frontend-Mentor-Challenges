@@ -9,4 +9,4 @@ FrontEnd Mentor Challenges
 
 #1.[QR Code](./QR_Code/)
 
-#1.[Blog Preview](./Blog_Preview/)
+#2.[Blog Preview](./Blog_Preview/)
