@@ -8,4 +8,4 @@ ABOUT ME
 FrontEnd Mentor Challenges
 
 #1. QR Code Challenge
-[Folder Name](./QR_Code/)
+[QR Code](./QR_Code/)
