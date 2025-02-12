@@ -11,4 +11,4 @@ FrontEnd Mentor Challenges
 
 #2.[Blog Preview](./Blog_Preview/)
 
-#3.[Social_Links_Profile](./Social_Links_Profile/)
+#3.[Social Links Profile](./Social_Links_Profile/)
